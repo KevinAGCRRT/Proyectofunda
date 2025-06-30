@@ -215,10 +215,10 @@ int main()
             cout << "desea salir precione 0, si desea seguir la siguiente categoria precione 1:" << endl;
             cin >> salir;
             break;
-            cout<< "esa opcion no existe, por favor selecciones una de las opciones anteriormentes mencionadas"<<endl;
             case 5:
             cout<< "saliendo del programa... te esperamos de nuevo para pasarlo bien!!!"<<endl;
         default:
+        cout<< "esa opcion no existe, por favor selecciones una de las opciones anteriormentes mencionadas"<<endl;
             break;
         }
 
